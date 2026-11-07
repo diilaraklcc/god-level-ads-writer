@@ -1,8 +1,8 @@
-# Müşteri Profili: Online Ticaret Üniversitesi (DGNS Akademi dahil)
+# Müşteri Profili: Online Ticaret Üniversitesi (Digiens Akademi dahil)
 
 _Oluşturulma: 2026-11 | Kaynak: Kullanıcı (ekip içi reklam yazım pratiği) | Durum: `[TESTED]` CTA mimarisi ekip pratiğinde kullanılıyor; ses tonu kalibrasyonu için örnek senaryolar bekleniyor_
 
-> Bu dosya, kullanıcı **Online Ticaret Üniversitesi**, **OTÜ** veya **DGNS / DGNS Akademi** (okunuşu "Digiens")
+> Bu dosya, kullanıcı **Online Ticaret Üniversitesi**, **OTÜ** veya **Digiens / Digiens Akademi / DGNS / Digiens AI**
 > için reklam istediğinde otomatik okunur. Türkiye Modu (`../turkey-market.md`) her zaman
 > birlikte açıktır. Bu dosyadaki kurallar, SKILL.md'deki genel kurallarla çatışırsa **bu dosya kazanır**.
 
@@ -15,8 +15,8 @@ _Oluşturulma: 2026-11 | Kaynak: Kullanıcı (ekip içi reklam yazım pratiği) 
 - **Reklam türleri (sıklık sırasıyla):**
   1. **Lansman reklamları:** Ön lansman (bekleme listesi), kayıtların açılışı, kapanış/son gün
   2. **Eğitim satış reklamları:** Program, kurs, atölye, webinar kaydı
-  3. **İşe alım reklamları:** Ekip ilanları (DGNS Akademi vb.)
-- **Bağlam (yazarın bilgisi için, reklamda zorunlu değil):** DGNS Akademi, Fatih Çoban'ın ekibi;
+  3. **İşe alım reklamları:** Ekip ilanları (Digiens Akademi vb.)
+- **Bağlam (yazarın bilgisi için, reklamda zorunlu değil):** Digiens Akademi (yazımı: "Digiens"), Fatih Çoban'ın ekibi;
   hedef kitlede bilinen bir marka. Marka adını hafifçe kullan; kurucu adını ve tanıtım
   bilgilerini kullanıcı istemedikçe reklama doldurma.
 - **Ses:** Enerjik, net, girişimci dili. Somut rakam, gerçek sonuç, dürüst beklenti.
@@ -112,7 +112,7 @@ açısından risklidir. Gerçek ve belgeli öğrenci sonuçlarını, "sonuçlar 
 
 ---
 
-## 5. İşe Alım Reklamları (DGNS Akademi ve ekip ilanları)
+## 5. İşe Alım Reklamları (Digiens Akademi ve ekip ilanları)
 
 _Kullanıcı geri bildirimi, 2026-11: "Bu kadar prodüksiyonlu ve sürekli CTA olmasına gerek yok.
 Aradığımız kişiye ulaşmamız daha önemli."_ `[TESTED: kullanıcı onaylı kural]`
@@ -159,14 +159,43 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
   (5) sosyal medya hesap yönetimi: paylaşım düzeni, algoritma bilgisi, hesabı büyütme
   (ilanda örtük anlatılır, "uzman" denmez).
   Diğerleri: varyasyon üretimi, platform ve trend bilgisi, performans yorumu, üretim hızı,
-  mesai ve iletişim disiplini.
+  mesai ve iletişim disiplini.- **İçerik Ekibi Video Editörü (grafik tasarım temelli):** Grafik tasarım eğitimli, kariyerine
+  video editör olarak devam eden, multidisipliner biri (kendi kendine öğrenmiş/alaylı profil
+  aranmıyor, ama bu ilanda açıkça söylenmez; "tasarım eğitimini kurguyla birleştirebiliyorsan"
+  gibi örtük ifade edilir). Premiere Pro, After Effects, Photoshop, Illustrator; yapay zekâyı
+  ekibin bir parçası gibi aktif kullanır; hook mantığını bilir; ağırlıkla reklam videosu
+  kurgular, gerektiğinde grafik tasarım (kapak, banner, kanıt kartı) yapar.
+  Ekip çalışmalarından çıkan ek ihtiyaçlar: telefonda okunan tipografi ve safe zone, kusursuz
+  Türkçe yazım, sade ve tek fikirli grafik dili, aynı çekimden farklı kurgu versiyonları.
+
+### Onaylanmış örnek senaryo (ses tonu referansı) `[KULLANICI ONAYLI]`
+Sosyal Medya Video Editörü ilanı, kullanıcının son hâli:
+```
+Digiens Akademi'nin sosyal medya ekibine bir video editör arıyoruz.
+
+Uzun bir yayının en güçlü anını kısa, akıcı bir videoya çevirebiliyorsan,
+yapay zekâyı kurguna katabiliyorsan,
+sosyal medya algoritmasına hâkimsen ve bir hesabı büyütebiliyorsan,
+aradığımız kişi sen olabilirsin.
+
+Daha önce girişimcilik, eğitim ya da kişisel marka içeriği kurguladıysan bir adım öndesin.
+
+Burada kurguladığın videolar her gün binlerce girişimciye ulaşıyor. Üstelik tamamen uzaktan çalışıyoruz.
+
+Kariyerini bir üst noktaya taşıyıp dolar üzerinden gelir sağlayarak kendini geliştireceğin bir
+ekibe dahil olmak istiyorsan, CV'ni ve kurguladığın birkaç videonun linkini açıklamadaki mail
+adresine gönder.
+```
+Kalıp: Pozisyon cümlesi → paralel şart cümleleri → "aradığımız kişi sen olabilirsin" →
+"bir adım öndesin" (tercih edilen deneyim) → iş yeri artısı + uzaktan → maaşı bağlayan CTA.
 
 ## 6. Yayınlanan Reklamlar Kaydı
 
 | Tarih | Reklam | Tür | Durum / Sonuç |
 |-------|--------|-----|---------------|
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v1, çok CTA'lı) | İşe alım | Kullanıcı reddetti: fazla prodüksiyon, fazla CTA, fazla spesifik |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Kullanıcı revize istedi: iş yerini öv, özellikleri kısalt, şart kipi, maaşı CTA'ya bağla |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Revize: sosyal medya/algoritma yetkinliği örtük eklendi, "akla gelen ekip" cümlesi çıkarıldı |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Revize: "yarı yoldasın" caydırıcı, akış karmaşık |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v5, paralel şart cümleleri) | İşe alım | Yazıldı, sonuç bekleniyor |
+| 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v1, çok CTA'lı) | İşe alım | Kullanıcı reddetti: fazla prodüksiyon, fazla CTA, fazla spesifik |
+| 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Kullanıcı revize istedi: iş yerini öv, özellikleri kısalt, şart kipi, maaşı CTA'ya bağla |
+| 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Revize: sosyal medya/algoritma yetkinliği örtük eklendi, "akla gelen ekip" cümlesi çıkarıldı |
+| 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Revize: "yarı yoldasın" caydırıcı, akış karmaşık |
+| 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v5, paralel şart cümleleri) | İşe alım | Kullanıcı onayladı (küçük düzenlemeyle), yayına hazır |
+| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (grafik tasarım temelli, v1) | İşe alım | Yazıldı, onay bekleniyor |

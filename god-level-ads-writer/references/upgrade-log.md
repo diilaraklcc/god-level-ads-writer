@@ -149,7 +149,7 @@ Conversion Priority Rule and Prioritization Rules framework added.
 | All ad format specifications | `references/ad-formats.md` |
 | Anti-AI writing rules, Voice DNA, human writing | `references/writing-voice.md` |
 | Client-specific context | `references/clients/[client-name].md` |
-| Online Ticaret Üniversitesi / DGNS Akademi | `references/clients/online-ticaret-universitesi.md` |
+| Online Ticaret Üniversitesi / Digiens Akademi | `references/clients/online-ticaret-universitesi.md` |
 | Cialdini persuasion principles | `references/frameworks.md` Section 12 |
 | New industry added after initial build | `references/[industry-name].md` |
 
@@ -281,7 +281,7 @@ when a client file requires it (the Full VSL spec already repeated the CTA 2-3 t
   requirements instead of listing all requirements; full list goes to the caption.
 - No internal operational numbers (e.g. "6 videos a day"); pace in general terms.
 - State the attractors clearly: fully remote, USD-based salary; CV by e-mail (in description).
-- Brand spelling corrected: DGNS Akademi (pronounced "Digiens"), Fatih Çoban's team.
+- Brand spelling corrected: Digiens Akademi (also written DGNS), Fatih Çoban's team.
 
 **Files updated:** `references/clients/online-ticaret-universitesi.md` (Sections 1, 2, 5, 6),
 `references/ad-formats.md` (Format 9), `SKILL.md` (triggers, client table).
