@@ -1,6 +1,6 @@
 ---
 name: god-level-ads-writer
-description: "God-level modern ads writer. Plans and writes every type of ad from scratch: static image ads, short-form UGC video scripts (30-60s), founder-led ads, testimonial ads, faceless/AI-generated ads, influencer-style scripts, Mini VSL (2-5 min), full VSL, and complete Meta/TikTok/YouTube platform copy. Covers lead generation, high-ticket sales, DTC, ecommerce, and service businesses. Trigger whenever user mentions: writing an ad, ad script, video script, Facebook ad, Instagram ad, Meta ad, TikTok ad, YouTube ad, UGC script, VSL, video sales letter, static ad, image ad, carousel ad, influencer script, founder ad, ad copy, primary text, headline copy, commercial script, or any advertising content for a business, product, or service. Also trigger for industries like med spa, dental, coaching, dealership, wellness, AI product ads, ecommerce, SaaS, or any service-based business advertising. Turkish triggers (Türkiye Mode): reklam metni, reklam yaz, reklam senaryosu, video senaryosu, Instagram reklamı, Meta reklamı, Facebook reklamı, TikTok reklamı, YouTube reklamı, UGC senaryosu, influencer senaryosu, statik reklam, görsel reklam, carousel, VSL, satış videosu, hook, kanca, ana metin, başlık metni, kampanya metni, Türk kitlesi, Türkiye pazarı, or any ad request written in Turkish."
+description: "God-level modern ads writer. Plans and writes every type of ad from scratch: static image ads, short-form UGC video scripts (30-60s), founder-led ads, testimonial ads, faceless/AI-generated ads, influencer-style scripts, Mini VSL (2-5 min), full VSL, and complete Meta/TikTok/YouTube platform copy. Covers lead generation, high-ticket sales, DTC, ecommerce, and service businesses. Trigger whenever user mentions: writing an ad, ad script, video script, Facebook ad, Instagram ad, Meta ad, TikTok ad, YouTube ad, UGC script, VSL, video sales letter, static ad, image ad, carousel ad, influencer script, founder ad, ad copy, primary text, headline copy, commercial script, or any advertising content for a business, product, or service. Also trigger for industries like med spa, dental, coaching, dealership, wellness, AI product ads, ecommerce, SaaS, or any service-based business advertising. Turkish triggers (Türkiye Mode): reklam metni, reklam yaz, reklam senaryosu, video senaryosu, Instagram reklamı, Meta reklamı, Facebook reklamı, TikTok reklamı, YouTube reklamı, UGC senaryosu, influencer senaryosu, statik reklam, görsel reklam, carousel, VSL, satış videosu, hook, kanca, ana metin, başlık metni, kampanya metni, Türk kitlesi, Türkiye pazarı, or any ad request written in Turkish. Client triggers: Online Ticaret Üniversitesi, OTÜ, Digience, Digience Akademi. Also trigger for hiring/recruitment ads (iş ilanı reklamı, işe alım reklamı, eleman arıyoruz)."
 user-invokable: true
 ---
 
@@ -125,6 +125,10 @@ deliver anyway. Never just ask questions without producing output.
 > read `/references/turkey-market.md` before planning. Ask the extra Turkey intake questions
 > listed in its Section 0 (sen/siz, city, payment options, sales channel, health sector?).
 
+> **Client files:** If the user names a client that has a file in `/references/clients/`
+> (e.g. Online Ticaret Üniversitesi / OTÜ / Digience Akademi), read it before planning. Client
+> file rules override general rules in this file when they conflict.
+
 > Skip any questions already answered by existing skill files, prior conversation context,
 > or client reference files in `/references/clients/`.
 
@@ -182,6 +186,9 @@ a summary of what the user told you. It is your strategic analysis of how to win
 ### 10. Objection Map
 [Top 2-3 objections this avatar has. Which one gets addressed in the ad, and how.]
 
+### 10b. Cialdini Map (when a client file requires it, recommended always)
+[Which persuasion principles (see `/references/frameworks.md` Section 12), at which second, how]
+
 ### 11. Conflict Resolution
 [Any tension between data points, formats, or angles — resolved here using the Conversion Priority Rule]
 ```
@@ -207,6 +214,7 @@ Quick reference:
 | Static image ad | All stages, direct response, carousel, catalog | N/A |
 | Mini VSL | High-ticket landing pages, pre-call warm-up | 2–5 min |
 | Full VSL | Info products, $297–$2,000+ offers, cold webinar | 10–30 min |
+| Recruitment / hiring | Hiring creative, sales, growth roles (see ad-formats.md Format 9) | 45–90s |
 
 **Format Selection Rule:**
 - Cold traffic + low trust = longer format or story-led
@@ -226,7 +234,7 @@ Quick reference:
 5. Include ONE proof element. Specific number, real testimonial, or real credential.
 6. Match framework to funnel stage.
 7. Design for sound-off. Bold captions must tell the full story independently.
-8. ONE CTA with urgency. Never two options.
+8. ONE CTA action with urgency. Never two options. (A client file may require repeating that same action at several timestamps, e.g. early / mid / final CTA in `/references/clients/online-ticaret-universitesi.md`. Same action, never a second action.)
 9. Negative hooks (STOP, mistake, warning, scam) outperform positive on cold traffic.
 10. Never start with "Hi I'm [Name]" or "Welcome to..." — these kill hook rate immediately.
 11. No em dashes. No AI contrast patterns. No filler transitions. (See Writing Constitution.)
@@ -330,7 +338,7 @@ After writing, run this checklist internally before delivering:
 
 **Conversion Check:**
 - [ ] Does this ad drive the single most important action for this business?
-- [ ] Is the CTA clear, direct, and stated exactly once?
+- [ ] Is the CTA clear, direct, and one single action? (Stated once, or at the timestamps the client file requires.)
 - [ ] Is the proof element specific enough to be credible?
 
 **Voice Check — applies to scripts AND all ad copy (Primary Text, headlines, static copy, VSL):**
@@ -484,7 +492,7 @@ for the funnel stage will underperform a competent script in the right one.
 | File | When to Read |
 |------|-------------|
 | `/references/ad-formats.md` | Format specs for all ad types |
-| `/references/frameworks.md` | Script structure selection + Us vs. Them MOF framework |
+| `/references/frameworks.md` | Script structure selection + Us vs. Them MOF framework + Cialdini persuasion principles |
 | `/references/hooks.md` | Full hook library — 18 types + industry examples |
 | `/references/industry-playbooks.md` | Industry-specific angles, offers, compliance |
 | `/references/india-market.md` | Indian market writing |
@@ -493,6 +501,7 @@ for the funnel stage will underperform a competent script in the right one.
 | `/references/campaign-architecture.md` | Testing cadence, scaling rules, benchmarks, Concept vs. Angle |
 | `/references/writing-voice.md` | Anti-AI writing rules, Voice DNA, human writing principles |
 | `/references/upgrade-log.md` | Living knowledge base — tested and proven patterns |
+| `/references/clients/online-ticaret-universitesi.md` | Client: Online Ticaret Üniversitesi / Digience Akademi (multi-CTA architecture, Cialdini, launch/education/hiring ads) |
 
 ---
 

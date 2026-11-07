@@ -310,6 +310,38 @@ Repeat the CTA 2–3 times in the final section. People decide at different poin
 
 ---
 
+## FORMAT 9 — RECRUITMENT / HIRING AD (İşe Alım Reklamı)
+
+_Added: 2026-11 | Status: `[THEORETICAL]`_
+
+**Best for:** Hiring for creative, sales, and growth roles where the best candidates are not
+actively job hunting and live on Instagram/TikTok/LinkedIn rather than job boards.
+
+**Conversion goal:** Qualified applications (with portfolio/proof), not application volume.
+The 99% Repel Principle is stronger here than anywhere: every unqualified applicant costs
+review time.
+
+**Structure:**
+1. **Hook:** A skill test the right candidate answers "yes" to, or an honest workload line.
+2. **Bridge:** Who is speaking (team lead / team member) and how many people are being hired.
+3. **The job in their language:** Describe the work as daily tasks, using the vocabulary of the
+   craft (clipping, hooks, variations), not HR language ("dinamik ekip", "takım oyuncusu").
+4. **The honest filter:** Real pace, hours, meetings, revision expectations.
+5. **What they get:** Concrete gains (portfolio exposure, scale, tools, learning, pay range if allowed).
+6. **The application task:** A small, specific ask that only serious candidates complete.
+7. **CTA:** One action (apply link). Deadline if real.
+
+**Rules:**
+- No requirements based on age, gender, marital status, religion, ethnicity or health.
+  (Turkey: equal treatment principle, İş Kanunu md. 5.)
+- Meta: select the **Employment special ad category**. Age, gender and detailed targeting are
+  limited, so the creative does the targeting: the hook must call out the craft itself.
+- Collecting CVs/portfolios: candidate privacy notice (Turkey: KVKK aday aydınlatma metni).
+- Show the real team and real workspace. Stock "happy office" footage kills credibility.
+- If a pay range can be stated, state it: it raises application quality.
+
+---
+
 ## FORMAT COMPARISON TABLE
 
 | Format | Cold Traffic | Warm Traffic | High-Ticket | Low-Ticket | Trust Required |
@@ -322,6 +354,7 @@ Repeat the CTA 2–3 times in the final section. People decide at different poin
 | Static | Medium | Strong | Low | Strong | Low |
 | Mini VSL | Weak | Very Strong | Very Strong | Weak | Very High |
 | Full VSL | Medium | Strong | Very Strong | Weak | Very High |
+| Recruitment | Strong | Strong | N/A | N/A | Medium |
 
 **Quick rule:** The more trust the format requires, the warmer the audience needs to be.
 Match trust level to audience temperature. Sending a full VSL to cold traffic wastes budget.

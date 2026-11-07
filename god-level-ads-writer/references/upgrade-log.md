@@ -149,6 +149,8 @@ Conversion Priority Rule and Prioritization Rules framework added.
 | All ad format specifications | `references/ad-formats.md` |
 | Anti-AI writing rules, Voice DNA, human writing | `references/writing-voice.md` |
 | Client-specific context | `references/clients/[client-name].md` |
+| Online Ticaret Üniversitesi / Digience Akademi | `references/clients/online-ticaret-universitesi.md` |
+| Cialdini persuasion principles | `references/frameworks.md` Section 12 |
 | New industry added after initial build | `references/[industry-name].md` |
 
 ---
@@ -241,6 +243,29 @@ regulatory notes verified against sources as of 2026-11 (re-check before publish
 **Conflicts with existing knowledge:** US health-sector offers in `industry-playbooks.md` and
 `offer-cta-library.md` conflict with Turkish law. Resolved: in Turkey Mode, `turkey-market.md`
 wins (legal compliance is a precondition for conversion; a rejected or fined ad converts nothing).
+
+---
+
+### ENTRY 007
+**Date:** 2026-11
+**Source:** User (Online Ticaret Üniversitesi team practice) + Robert Cialdini, "Influence" / "Pre-Suasion"
+**Added by:** User request
+**Status:** `[TESTED]` multi-CTA architecture (client team practice) | `[THEORETICAL]` recruitment format
+
+**What was added:**
+1. **Client file** `references/clients/online-ticaret-universitesi.md`: launch, education and
+   hiring ads; multi-CTA architecture (early CTA by second 20, mid CTA for 60s+, final CTA;
+   same single action every time); mandatory Cialdini labeling; launch ad patterns.
+2. **Cialdini's principles** (6 + Unity) as `frameworks.md` Section 12, with Turkish examples
+   and truthfulness rules for scarcity and social proof.
+3. **Recruitment / hiring ad format** as `ad-formats.md` Format 9.
+4. **SKILL.md:** client-file auto-read rule, client and hiring triggers, CTA rule 8 and Phase 5
+   check updated to allow repeated same-action CTAs, Cialdini Map in the Strategic Plan,
+   recruitment row in the format table, reference table rows.
+
+**Conflicts with existing knowledge:** SKILL.md rule 8 / Phase 5 said the CTA is stated exactly
+once. Resolved: the rule is "one action"; repeating that same action at set timestamps is allowed
+when a client file requires it (the Full VSL spec already repeated the CTA 2-3 times).
 
 ---
 
