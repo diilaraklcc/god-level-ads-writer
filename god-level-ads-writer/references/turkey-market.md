@@ -818,7 +818,7 @@ zorunlu. Puan ve yorum sayısı kullanıcıdan alınan gerçek veri olmalı.
 - **Açıklama:** Kapıda ödeme var (17 karakter)
 - **CTA butonu:** Hemen Alışveriş Yap
 
-### 13.2 Founder-led eğitim / kurs (45 sn, ~82 kelime, "sen" hitabı)
+### 13.2 Founder-led eğitim / kurs (45 sn, ~78 kelime, "sen" hitabı; sakin founder temposu)
 Ürün: 10 haftalık online Excel ve veri analizi eğitimi. Ücretsiz deneme dersi.
 
 ```
