@@ -145,6 +145,15 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
 - **Maaş CTA'ya bağlanır:** Kullanıcının onayladığı kalıp: "Kariyerini bir üst noktaya taşıyıp
   dolar üzerinden gelir sağlayarak kendini geliştireceğin bir ekibe dahil olmak istiyorsan,
   CV'ni ve kurguladığın birkaç videonun linkini açıklamadaki mail adresine gönder."
+- **Yapay zekâ "her gün kullanılan" bir şey olarak değil, projelerde destek alınan bir araç
+  olarak anlatılır:** "yapay zekâdaki yenilikleri takip edip projelerinde ondan destek alabiliyorsan".
+- **Pozisyonu etiketle değil, bakış açısıyla tanımla:** "grafik tasarım temelli video editör"
+  yerine "tasarımcı gözüyle kurgu yapan video editör".
+- **Kalıp ifadeleri ilanlar arasında tekrarlama:** "bir adım öndesin" gibi bağlayıcılar her
+  ilanda farklı olsun (örn. "burada ilk günden işin içinde olursun").
+- **İş yeri artısı sahiplik + erişim ile ikna eder:** "Bir reklamın ilk karesinden kapağına kadar
+  her detayda senin imzan olacak. Kurguladığın reklamlar her gün binlerce kişiye ulaşıyor."
+  "Rakamlarla göreceksin" gibi soyut vaatler zayıf kalır.
 - **Aşırı spesifik iş yükü verme.** "Günde 6 video" gibi iç operasyon rakamları yerine tempo
   genel ifadeyle anlatılır ("yoğun üretim temposu", "her sabah kısa toplantı").
 - **Çekici unsurlar net söylenir:** Tamamen uzaktan çalışma, dolar bazlı maaş. Bunlar başvuru
@@ -198,4 +207,5 @@ Kalıp: Pozisyon cümlesi → paralel şart cümleleri → "aradığımız kişi
 | 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Revize: sosyal medya/algoritma yetkinliği örtük eklendi, "akla gelen ekip" cümlesi çıkarıldı |
 | 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Revize: "yarı yoldasın" caydırıcı, akış karmaşık |
 | 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v5, paralel şart cümleleri) | İşe alım | Kullanıcı onayladı (küçük düzenlemeyle), yayına hazır |
-| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (grafik tasarım temelli, v1) | İşe alım | Yazıldı, onay bekleniyor |
+| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v1) | İşe alım | Revize: "grafik tasarım temelli" etiketi, AI "her gün", "bir adım öndesin", tasarım cümlesi ve zayıf ikna değişecek |
+| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v2) | İşe alım | Yazıldı, onay bekleniyor |
