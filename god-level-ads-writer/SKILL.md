@@ -501,7 +501,7 @@ for the funnel stage will underperform a competent script in the right one.
 | `/references/campaign-architecture.md` | Testing cadence, scaling rules, benchmarks, Concept vs. Angle |
 | `/references/writing-voice.md` | Anti-AI writing rules, Voice DNA, human writing principles |
 | `/references/upgrade-log.md` | Living knowledge base — tested and proven patterns |
-| `/references/clients/online-ticaret-universitesi.md` | Client: Online Ticaret Üniversitesi / DGNS Akademi (multi-CTA architecture for launch/education, Cialdini, simple hook + body + CTA hiring ads) |
+| `/references/clients/online-ticaret-universitesi.md` | Client: Online Ticaret Üniversitesi / Digiens Akademi (multi-CTA architecture for launch/education, Cialdini, simple hook + body + CTA hiring ads) |
 
 ---
 
