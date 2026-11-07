@@ -128,6 +128,11 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
   bu betimlemede tanımalı. Tam liste açıklama metnine kısa bir paragraf olarak girer.
 - **Betimleme şart kipiyle yazılır:** "çevirebiliyorsan, biliyorsan, deniyorsan" (sen + -sa/-se).
   "Çevirebiliyorsun, biliyorsun" gibi bildirme kipi kullanılmaz; aday kendini koşulda tanır.
+- **Yetkinliği unvanla değil, yaptığı işle anlat:** "sosyal medya uzmanı", "algoritmaya hâkim"
+  demek yerine davranışı söyle: "o videonun ne zaman, nasıl paylaşılınca öne çıkacağını
+  biliyorsan", "bir hesabı büyütebiliyorsan".
+- **Şirket yapısını anlatma:** Aynı ekip birden fazla şirkete çalışıyor; bunu ve marka
+  konumlandırma iddialarını ("... denince akla gelen ekip") ilanda kullanma.
 - **Özellik kısmı kısa:** En fazla 2 cümle. Öncelik: kurgu + yapay zekâ, girişimcilik/eğitim
   içerik deneyimi.
 - **İş yerini öv:** Adayın ne kazanacağını anlat (işlerin büyük kitleye ulaşması, bilinen bir
@@ -146,6 +151,8 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
 - **Sosyal Medya Video Editörü:** Öncelikli özellikler: (1) uzun yayından güçlü kısa video
   çıkarma ve hook, (2) hikâye bütünlüğü bozmadan kurgu, (3) kurgu araçları + yapay zekâ
   hâkimiyeti, (4) tercihen kişisel marka/girişimcilik/eğitim/iş dünyası içerik deneyimi.
+  (5) sosyal medya hesap yönetimi: paylaşım düzeni, algoritma bilgisi, hesabı büyütme
+  (ilanda örtük anlatılır, "uzman" denmez).
   Diğerleri: varyasyon üretimi, platform ve trend bilgisi, performans yorumu, üretim hızı,
   mesai ve iletişim disiplini.
 
@@ -155,4 +162,5 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
 |-------|--------|-----|---------------|
 | 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v1, çok CTA'lı) | İşe alım | Kullanıcı reddetti: fazla prodüksiyon, fazla CTA, fazla spesifik |
 | 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Kullanıcı revize istedi: iş yerini öv, özellikleri kısalt, şart kipi, maaşı CTA'ya bağla |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Yazıldı, sonuç bekleniyor |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Revize: sosyal medya/algoritma yetkinliği örtük eklendi, "akla gelen ekip" cümlesi çıkarıldı |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Yazıldı, sonuç bekleniyor |
