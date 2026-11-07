@@ -126,6 +126,15 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
 - **Maddeleri sıralama, kişiyi betimle.** İlan maddelerinin hepsini sayma. En önemli 3-4
   özelliği seçip, o özelliklere sahip kişiyi birkaç cümleyle "sen" diliyle anlat. Aday kendini
   bu betimlemede tanımalı. Tam liste açıklama metnine kısa bir paragraf olarak girer.
+- **Betimleme şart kipiyle yazılır:** "çevirebiliyorsan, biliyorsan, deniyorsan" (sen + -sa/-se).
+  "Çevirebiliyorsun, biliyorsun" gibi bildirme kipi kullanılmaz; aday kendini koşulda tanır.
+- **Özellik kısmı kısa:** En fazla 2 cümle. Öncelik: kurgu + yapay zekâ, girişimcilik/eğitim
+  içerik deneyimi.
+- **İş yerini öv:** Adayın ne kazanacağını anlat (işlerin büyük kitleye ulaşması, bilinen bir
+  ekibin mutfağında olmak, uzaktan çalışma). Klişe ("dinamik ekip", "harika ortam") yok, somut ol.
+- **Maaş CTA'ya bağlanır:** Kullanıcının onayladığı kalıp: "Kariyerini bir üst noktaya taşıyıp
+  dolar üzerinden gelir sağlayarak kendini geliştireceğin bir ekibe dahil olmak istiyorsan,
+  CV'ni ve kurguladığın birkaç videonun linkini açıklamadaki mail adresine gönder."
 - **Aşırı spesifik iş yükü verme.** "Günde 6 video" gibi iç operasyon rakamları yerine tempo
   genel ifadeyle anlatılır ("yoğun üretim temposu", "her sabah kısa toplantı").
 - **Çekici unsurlar net söylenir:** Tamamen uzaktan çalışma, dolar bazlı maaş. Bunlar başvuru
@@ -145,4 +154,5 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
 | Tarih | Reklam | Tür | Durum / Sonuç |
 |-------|--------|-----|---------------|
 | 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v1, çok CTA'lı) | İşe alım | Kullanıcı reddetti: fazla prodüksiyon, fazla CTA, fazla spesifik |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Yazıldı, sonuç bekleniyor |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Kullanıcı revize istedi: iş yerini öv, özellikleri kısalt, şart kipi, maaşı CTA'ya bağla |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Yazıldı, sonuç bekleniyor |
