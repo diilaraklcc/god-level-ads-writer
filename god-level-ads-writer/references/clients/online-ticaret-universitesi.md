@@ -128,6 +128,11 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
   bu betimlemede tanımalı. Tam liste açıklama metnine kısa bir paragraf olarak girer.
 - **Betimleme şart kipiyle yazılır:** "çevirebiliyorsan, biliyorsan, deniyorsan" (sen + -sa/-se).
   "Çevirebiliyorsun, biliyorsun" gibi bildirme kipi kullanılmaz; aday kendini koşulda tanır.
+- **Akış: paralel şart cümleleri, bağlaçsız.** Özellikler "ve", "yarı yoldasın" gibi bağlaç ya da
+  ara yorumla birbirine bağlanmaz. Her biri kısa, aynı kalıpta bir şart cümlesi olur, alt alta
+  dizilir ve tek bir sonuçta toplanır ("...aradığımız kişi sen olabilirsin."). Sıra işten
+  sonuca gider (kurgu → yapay zekâ → algoritma → hesabı büyütme), böylece her ifade bir
+  öncekini pekiştirir. Caydırıcı ya da "eksiksin" hissi veren ifade kullanılmaz.
 - **Yetkinliği unvanla değil, yaptığı işle anlat:** "sosyal medya uzmanı", "algoritmaya hâkim"
   demek yerine davranışı söyle: "o videonun ne zaman, nasıl paylaşılınca öne çıkacağını
   biliyorsan", "bir hesabı büyütebiliyorsan".
@@ -163,4 +168,5 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
 | 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v1, çok CTA'lı) | İşe alım | Kullanıcı reddetti: fazla prodüksiyon, fazla CTA, fazla spesifik |
 | 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Kullanıcı revize istedi: iş yerini öv, özellikleri kısalt, şart kipi, maaşı CTA'ya bağla |
 | 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v3) | İşe alım | Revize: sosyal medya/algoritma yetkinliği örtük eklendi, "akla gelen ekip" cümlesi çıkarıldı |
-| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Yazıldı, sonuç bekleniyor |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Revize: "yarı yoldasın" caydırıcı, akış karmaşık |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v5, paralel şart cümleleri) | İşe alım | Yazıldı, sonuç bekleniyor |
