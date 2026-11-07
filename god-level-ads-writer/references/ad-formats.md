@@ -321,8 +321,8 @@ actively job hunting and live on Instagram/TikTok/LinkedIn rather than job board
 The 99% Repel Principle is stronger here than anywhere: every unqualified applicant costs
 review time.
 
-**Structure:**
-1. **Hook:** A skill test the right candidate answers "yes" to, or an honest workload line.
+**Structure (extended version):**
+1. **Hook:** A skill test or a self-recognition line the right candidate answers "yes" to.
 2. **Bridge:** Who is speaking (team lead / team member) and how many people are being hired.
 3. **The job in their language:** Describe the work as daily tasks, using the vocabulary of the
    craft (clipping, hooks, variations), not HR language ("dinamik ekip", "takım oyuncusu").
@@ -331,7 +331,16 @@ review time.
 6. **The application task:** A small, specific ask that only serious candidates complete.
 7. **CTA:** One action (apply link). Deadline if real.
 
+**Simplest version (often best):** Hook → Body → one CTA. Light production (one person to
+camera + subtitles). Many hiring ads need nothing more.
+
 **Rules:**
+- **Describe the person, don't list the job post.** Pick the 3-4 requirements that matter most
+  and write a few sentences in which the right candidate recognizes themselves ("Uzun bir
+  yayının içinden en güçlü anı bulup..."). Put the full list in the caption/description.
+- Avoid internal operational numbers (e.g. exact videos per day) unless the user wants them;
+  describe pace in general terms.
+- One CTA at the end. Multi-CTA architectures from launch ads do not apply to hiring ads.
 - No requirements based on age, gender, marital status, religion, ethnicity or health.
   (Turkey: equal treatment principle, İş Kanunu md. 5.)
 - Meta: select the **Employment special ad category**. Age, gender and detailed targeting are

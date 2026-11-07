@@ -149,7 +149,7 @@ Conversion Priority Rule and Prioritization Rules framework added.
 | All ad format specifications | `references/ad-formats.md` |
 | Anti-AI writing rules, Voice DNA, human writing | `references/writing-voice.md` |
 | Client-specific context | `references/clients/[client-name].md` |
-| Online Ticaret Üniversitesi / Digience Akademi | `references/clients/online-ticaret-universitesi.md` |
+| Online Ticaret Üniversitesi / DGNS Akademi | `references/clients/online-ticaret-universitesi.md` |
 | Cialdini persuasion principles | `references/frameworks.md` Section 12 |
 | New industry added after initial build | `references/[industry-name].md` |
 
@@ -266,6 +266,27 @@ wins (legal compliance is a precondition for conversion; a rejected or fined ad 
 **Conflicts with existing knowledge:** SKILL.md rule 8 / Phase 5 said the CTA is stated exactly
 once. Resolved: the rule is "one action"; repeating that same action at set timestamps is allowed
 when a client file requires it (the Full VSL spec already repeated the CTA 2-3 times).
+
+---
+
+### ENTRY 008
+**Date:** 2026-11
+**Source:** User feedback on the first DGNS Akademi hiring ad
+**Added by:** User
+**Status:** `[TESTED]` (user-approved rule)
+
+**What changed:**
+- Hiring ads for this client: Hook → Body → one CTA only. Light production. No multi-CTA.
+- Describe the ideal candidate in a few "sen" sentences from the 3-4 most important
+  requirements instead of listing all requirements; full list goes to the caption.
+- No internal operational numbers (e.g. "6 videos a day"); pace in general terms.
+- State the attractors clearly: fully remote, USD-based salary; CV by e-mail (in description).
+- Brand spelling corrected: DGNS Akademi (pronounced "Digiens"), Fatih Çoban's team.
+
+**Files updated:** `references/clients/online-ticaret-universitesi.md` (Sections 1, 2, 5, 6),
+`references/ad-formats.md` (Format 9), `SKILL.md` (triggers, client table).
+
+**Conflicts:** Overrides the multi-CTA architecture for hiring ads only; launch/education ads keep it.
 
 ---
 

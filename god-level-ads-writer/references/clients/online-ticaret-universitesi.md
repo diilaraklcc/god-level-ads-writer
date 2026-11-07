@@ -1,8 +1,8 @@
-# Müşteri Profili: Online Ticaret Üniversitesi (Digience Akademi dahil)
+# Müşteri Profili: Online Ticaret Üniversitesi (DGNS Akademi dahil)
 
 _Oluşturulma: 2026-11 | Kaynak: Kullanıcı (ekip içi reklam yazım pratiği) | Durum: `[TESTED]` CTA mimarisi ekip pratiğinde kullanılıyor; ses tonu kalibrasyonu için örnek senaryolar bekleniyor_
 
-> Bu dosya, kullanıcı **Online Ticaret Üniversitesi**, **OTÜ** veya **Digience / Digience Akademi**
+> Bu dosya, kullanıcı **Online Ticaret Üniversitesi**, **OTÜ** veya **DGNS / DGNS Akademi** (okunuşu "Digiens")
 > için reklam istediğinde otomatik okunur. Türkiye Modu (`../turkey-market.md`) her zaman
 > birlikte açıktır. Bu dosyadaki kurallar, SKILL.md'deki genel kurallarla çatışırsa **bu dosya kazanır**.
 
@@ -15,7 +15,10 @@ _Oluşturulma: 2026-11 | Kaynak: Kullanıcı (ekip içi reklam yazım pratiği) 
 - **Reklam türleri (sıklık sırasıyla):**
   1. **Lansman reklamları:** Ön lansman (bekleme listesi), kayıtların açılışı, kapanış/son gün
   2. **Eğitim satış reklamları:** Program, kurs, atölye, webinar kaydı
-  3. **İşe alım reklamları:** Ekip ilanları (Digience Akademi vb.)
+  3. **İşe alım reklamları:** Ekip ilanları (DGNS Akademi vb.)
+- **Bağlam (yazarın bilgisi için, reklamda zorunlu değil):** DGNS Akademi, Fatih Çoban'ın ekibi;
+  hedef kitlede bilinen bir marka. Marka adını hafifçe kullan; kurucu adını ve tanıtım
+  bilgilerini kullanıcı istemedikçe reklama doldurma.
 - **Ses:** Enerjik, net, girişimci dili. Somut rakam, gerçek sonuç, dürüst beklenti.
   Kurumsal broşür dili yok, abartı yok (Türkiye Modu Bölüm 4 yasaklı liste geçerli).
 
@@ -24,7 +27,9 @@ _Oluşturulma: 2026-11 | Kaynak: Kullanıcı (ekip içi reklam yazım pratiği) 
 
 ---
 
-## 2. CTA Mimarisi (SKILL.md "tek CTA" kuralının yerine geçer)
+## 2. CTA Mimarisi (lansman ve eğitim reklamları; SKILL.md "tek CTA" kuralının yerine geçer)
+
+> **İşe alım reklamlarında bu mimari UYGULANMAZ.** İşe alım ilanında tek CTA, sonda (Bölüm 5).
 
 **Temel kural:** Tek **eylem**, birden çok **an.** CTA her seferinde aynı eylemi ister
 (aynı link, aynı buton). İki farklı eylem ("forma git" + "DM at") asla aynı reklamda olmaz.
@@ -107,23 +112,37 @@ açısından risklidir. Gerçek ve belgeli öğrenci sonuçlarını, "sonuçlar 
 
 ---
 
-## 5. İşe Alım Reklamları (Digience Akademi ve ekip ilanları)
+## 5. İşe Alım Reklamları (DGNS Akademi ve ekip ilanları)
 
-Genel format: `../ad-formats.md` Format 9. Bu müşteri için ek kurallar:
+_Kullanıcı geri bildirimi, 2026-11: "Bu kadar prodüksiyonlu ve sürekli CTA olmasına gerek yok.
+Aradığımız kişiye ulaşmamız daha önemli."_ `[TESTED: kullanıcı onaylı kural]`
 
-- **Konuşmacı:** İlgili ekibin lideri veya ekipten biri. Gerçek ofis/çalışma ortamı.
-- **Dürüst tempo:** İş yükü ve tempo açıkça söylenir (örn. "günde 6 video"). Bu, %99 Repel
-  ilkesinin işe alım karşılığıdır: uygun olmayan aday başvurmaz, değerlendirme yükü azalır.
-- **Başvuru görevi (Tutarlılık ilkesi):** Başvuruda küçük bir zihinsel yatırım istenir
-  ("en iyi 3 işin ve neden tuttuğunu bir cümleyle yaz"). Ciddi adayı ayırır.
-- **Tek eylem:** Başvuru formu/linki. CTA mimarisi (Bölüm 2) geçerli.
+Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
+
+- **Yapı sadece üç parça:** Hook → Ana metin → CTA. Strateji planı, çoklu CTA, Cialdini
+  etiketleri, prodüksiyon notu, varyasyon yığını gerekmez (istenirse eklenir).
+- **Prodüksiyon hafif:** Ekipten biri kameraya konuşur, altyazı. Ekran kaydı, sticker, efekt şart değil.
+- **Tek CTA, sonda.** Başvuru kanalı açıklamada yazar (bu ekipte: CV + video linkleri e-postayla).
+- **Maddeleri sıralama, kişiyi betimle.** İlan maddelerinin hepsini sayma. En önemli 3-4
+  özelliği seçip, o özelliklere sahip kişiyi birkaç cümleyle "sen" diliyle anlat. Aday kendini
+  bu betimlemede tanımalı. Tam liste açıklama metnine kısa bir paragraf olarak girer.
+- **Aşırı spesifik iş yükü verme.** "Günde 6 video" gibi iç operasyon rakamları yerine tempo
+  genel ifadeyle anlatılır ("yoğun üretim temposu", "her sabah kısa toplantı").
+- **Çekici unsurlar net söylenir:** Tamamen uzaktan çalışma, dolar bazlı maaş. Bunlar başvuru
+  getirir; betimleme ise yanlış kişiyi eler. İkisi birlikte kaliteli başvuru getirir.
 - **Uyum:** Meta'da "İstihdam" özel reklam kategorisi; yaş, cinsiyet, medeni durum şartı yok;
-  başvuru formunda KVKK aday aydınlatma metni.
+  e-postayla gelen CV'ler için KVKK aday aydınlatma metni.
 
----
+### Pozisyon özetleri
+- **Sosyal Medya Video Editörü:** Öncelikli özellikler: (1) uzun yayından güçlü kısa video
+  çıkarma ve hook, (2) hikâye bütünlüğü bozmadan kurgu, (3) kurgu araçları + yapay zekâ
+  hâkimiyeti, (4) tercihen kişisel marka/girişimcilik/eğitim/iş dünyası içerik deneyimi.
+  Diğerleri: varyasyon üretimi, platform ve trend bilgisi, performans yorumu, üretim hızı,
+  mesai ve iletişim disiplini.
 
 ## 6. Yayınlanan Reklamlar Kaydı
 
 | Tarih | Reklam | Tür | Durum / Sonuç |
 |-------|--------|-----|---------------|
-| 2026-11 | Digience Akademi: Sosyal Medya Video Editörü ilanı | İşe alım | Yazıldı, sonuç bekleniyor |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v1, çok CTA'lı) | İşe alım | Kullanıcı reddetti: fazla prodüksiyon, fazla CTA, fazla spesifik |
+| 2026-11 | DGNS Akademi: Sosyal Medya Video Editörü ilanı (v2, hook + ana metin + CTA) | İşe alım | Yazıldı, sonuç bekleniyor |

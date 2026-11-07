@@ -1,6 +1,6 @@
 ---
 name: god-level-ads-writer
-description: "God-level modern ads writer. Plans and writes every type of ad from scratch: static image ads, short-form UGC video scripts (30-60s), founder-led ads, testimonial ads, faceless/AI-generated ads, influencer-style scripts, Mini VSL (2-5 min), full VSL, and complete Meta/TikTok/YouTube platform copy. Covers lead generation, high-ticket sales, DTC, ecommerce, and service businesses. Trigger whenever user mentions: writing an ad, ad script, video script, Facebook ad, Instagram ad, Meta ad, TikTok ad, YouTube ad, UGC script, VSL, video sales letter, static ad, image ad, carousel ad, influencer script, founder ad, ad copy, primary text, headline copy, commercial script, or any advertising content for a business, product, or service. Also trigger for industries like med spa, dental, coaching, dealership, wellness, AI product ads, ecommerce, SaaS, or any service-based business advertising. Turkish triggers (Türkiye Mode): reklam metni, reklam yaz, reklam senaryosu, video senaryosu, Instagram reklamı, Meta reklamı, Facebook reklamı, TikTok reklamı, YouTube reklamı, UGC senaryosu, influencer senaryosu, statik reklam, görsel reklam, carousel, VSL, satış videosu, hook, kanca, ana metin, başlık metni, kampanya metni, Türk kitlesi, Türkiye pazarı, or any ad request written in Turkish. Client triggers: Online Ticaret Üniversitesi, OTÜ, Digience, Digience Akademi. Also trigger for hiring/recruitment ads (iş ilanı reklamı, işe alım reklamı, eleman arıyoruz)."
+description: "God-level modern ads writer. Plans and writes every type of ad from scratch: static image ads, short-form UGC video scripts (30-60s), founder-led ads, testimonial ads, faceless/AI-generated ads, influencer-style scripts, Mini VSL (2-5 min), full VSL, and complete Meta/TikTok/YouTube platform copy. Covers lead generation, high-ticket sales, DTC, ecommerce, and service businesses. Trigger whenever user mentions: writing an ad, ad script, video script, Facebook ad, Instagram ad, Meta ad, TikTok ad, YouTube ad, UGC script, VSL, video sales letter, static ad, image ad, carousel ad, influencer script, founder ad, ad copy, primary text, headline copy, commercial script, or any advertising content for a business, product, or service. Also trigger for industries like med spa, dental, coaching, dealership, wellness, AI product ads, ecommerce, SaaS, or any service-based business advertising. Turkish triggers (Türkiye Mode): reklam metni, reklam yaz, reklam senaryosu, video senaryosu, Instagram reklamı, Meta reklamı, Facebook reklamı, TikTok reklamı, YouTube reklamı, UGC senaryosu, influencer senaryosu, statik reklam, görsel reklam, carousel, VSL, satış videosu, hook, kanca, ana metin, başlık metni, kampanya metni, Türk kitlesi, Türkiye pazarı, or any ad request written in Turkish. Client triggers: Online Ticaret Üniversitesi, OTÜ, DGNS, DGNS Akademi, Digience, Fatih Çoban. Also trigger for hiring/recruitment ads (iş ilanı reklamı, işe alım reklamı, eleman arıyoruz)."
 user-invokable: true
 ---
 
@@ -126,7 +126,7 @@ deliver anyway. Never just ask questions without producing output.
 > listed in its Section 0 (sen/siz, city, payment options, sales channel, health sector?).
 
 > **Client files:** If the user names a client that has a file in `/references/clients/`
-> (e.g. Online Ticaret Üniversitesi / OTÜ / Digience Akademi), read it before planning. Client
+> (e.g. Online Ticaret Üniversitesi / OTÜ / DGNS Akademi), read it before planning. Client
 > file rules override general rules in this file when they conflict.
 
 > Skip any questions already answered by existing skill files, prior conversation context,
@@ -501,7 +501,7 @@ for the funnel stage will underperform a competent script in the right one.
 | `/references/campaign-architecture.md` | Testing cadence, scaling rules, benchmarks, Concept vs. Angle |
 | `/references/writing-voice.md` | Anti-AI writing rules, Voice DNA, human writing principles |
 | `/references/upgrade-log.md` | Living knowledge base — tested and proven patterns |
-| `/references/clients/online-ticaret-universitesi.md` | Client: Online Ticaret Üniversitesi / Digience Akademi (multi-CTA architecture, Cialdini, launch/education/hiring ads) |
+| `/references/clients/online-ticaret-universitesi.md` | Client: Online Ticaret Üniversitesi / DGNS Akademi (multi-CTA architecture for launch/education, Cialdini, simple hook + body + CTA hiring ads) |
 
 ---
 
