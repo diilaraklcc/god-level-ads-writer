@@ -149,11 +149,18 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
   olarak anlatılır:** "yapay zekâdaki yenilikleri takip edip projelerinde ondan destek alabiliyorsan".
 - **Pozisyonu etiketle değil, bakış açısıyla tanımla:** "grafik tasarım temelli video editör"
   yerine "tasarımcı gözüyle kurgu yapan video editör".
-- **Kalıp ifadeleri ilanlar arasında tekrarlama:** "bir adım öndesin" gibi bağlayıcılar her
-  ilanda farklı olsun (örn. "burada ilk günden işin içinde olursun").
-- **İş yeri artısı sahiplik + erişim ile ikna eder:** "Bir reklamın ilk karesinden kapağına kadar
-  her detayda senin imzan olacak. Kurguladığın reklamlar her gün binlerce kişiye ulaşıyor."
-  "Rakamlarla göreceksin" gibi soyut vaatler zayıf kalır.
+- **"Bir adım öndesin" kalabilir;** değişken olan, ondan önceki tercih edilen deneyimdir
+  (sosyal medya ilanında girişimcilik/eğitim içeriği, içerik ilanında reklam videosu).
+- **İş yeri artısı gerçek ve somut olmalı:** Erişim ("editlediğin reklamlar her gün binlerce
+  kişiye ulaşıyor"), yeteneği farklı alanlarda kullanma, uzaktan çalışma. "Rakamlarla
+  göreceksin" gibi soyut vaatler zayıf kalır.
+- **Terim: "edit", "kurgu" değil.** Ekip edit yapıyor, video editör arıyor. Yaptığı iş
+  "edit / editlemek" diye anlatılır ("editlediğin reklamlar", "editlerine yansıtabiliyorsan").
+  Kurgu, editin güçlü olması gereken bir parçasıdır, işin adı değildir.
+- **Ekibin tasarım işleri:** Statik reklam tasarımları ve landing page tasarımları. Reklam
+  kapağı tasarımı YOK. "Her detayda senin imzan olacak" gibi gerçeği abartan ifadeler kullanılmaz.
+  Uygun kalıp: "Tasarım altyapını statik reklamlarda, landing page'lerde de konuşturacaksın."
+- **"Daha önce reklam videosu editlediysen bir adım öndesin"** bu ekip için onaylı bağlayıcıdır.
 - **Aşırı spesifik iş yükü verme.** "Günde 6 video" gibi iç operasyon rakamları yerine tempo
   genel ifadeyle anlatılır ("yoğun üretim temposu", "her sabah kısa toplantı").
 - **Çekici unsurlar net söylenir:** Tamamen uzaktan çalışma, dolar bazlı maaş. Bunlar başvuru
@@ -173,7 +180,7 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
   aranmıyor, ama bu ilanda açıkça söylenmez; "tasarım eğitimini kurguyla birleştirebiliyorsan"
   gibi örtük ifade edilir). Premiere Pro, After Effects, Photoshop, Illustrator; yapay zekâyı
   ekibin bir parçası gibi aktif kullanır; hook mantığını bilir; ağırlıkla reklam videosu
-  kurgular, gerektiğinde grafik tasarım (kapak, banner, kanıt kartı) yapar.
+  editler, gerektiğinde statik reklam ve landing page tasarımı yapar (kapak tasarımı yok).
   Ekip çalışmalarından çıkan ek ihtiyaçlar: telefonda okunan tipografi ve safe zone, kusursuz
   Türkçe yazım, sade ve tek fikirli grafik dili, aynı çekimden farklı kurgu versiyonları.
 
@@ -208,4 +215,5 @@ Kalıp: Pozisyon cümlesi → paralel şart cümleleri → "aradığımız kişi
 | 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v4) | İşe alım | Revize: "yarı yoldasın" caydırıcı, akış karmaşık |
 | 2026-11 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v5, paralel şart cümleleri) | İşe alım | Kullanıcı onayladı (küçük düzenlemeyle), yayına hazır |
 | 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v1) | İşe alım | Revize: "grafik tasarım temelli" etiketi, AI "her gün", "bir adım öndesin", tasarım cümlesi ve zayıf ikna değişecek |
-| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v2) | İşe alım | Yazıldı, onay bekleniyor |
+| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v2) | İşe alım | Revize: "kurgu" yerine "edit", kapak değil statik reklam + landing page, "imzan olacak" çıkacak |
+| 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v3) | İşe alım | Yazıldı, onay bekleniyor |
