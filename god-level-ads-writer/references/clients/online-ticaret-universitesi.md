@@ -142,7 +142,11 @@ Genel format: `../ad-formats.md` Format 9. Bu müşteri için kurallar:
   içerik deneyimi.
 - **İş yerini öv:** Adayın ne kazanacağını anlat (işlerin büyük kitleye ulaşması, bilinen bir
   ekibin mutfağında olmak, uzaktan çalışma). Klişe ("dinamik ekip", "harika ortam") yok, somut ol.
-- **Maaş CTA'ya bağlanır:** Kullanıcının onayladığı kalıp: "Kariyerini bir üst noktaya taşıyıp
+- **Güncel tercih (2026-11-17): Maaşın dolar olduğu söylenmez.** Çekici unsurlar uzaktan çalışma
+  ve kendi içerik fikirlerini hayata geçirebilmek; bunlar pozisyon cümlesinden hemen sonra,
+  şart cümlelerinin ilki olarak gelir ("...bir ekibin parçası olmak istiyorsan,"). Aşağıdaki
+  dolar kalıbı yalnızca kullanıcı açıkça isterse kullanılır.
+- **(Eski) Maaş CTA'ya bağlanır:** Kullanıcının onayladığı kalıp: "Kariyerini bir üst noktaya taşıyıp
   dolar üzerinden gelir sağlayarak kendini geliştireceğin bir ekibe dahil olmak istiyorsan,
   CV'ni ve kurguladığın birkaç videonun linkini açıklamadaki mail adresine gönder."
 - **Yapay zekâ "her gün kullanılan" bir şey olarak değil, projelerde destek alınan bir araç
@@ -217,3 +221,4 @@ Kalıp: Pozisyon cümlesi → paralel şart cümleleri → "aradığımız kişi
 | 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v1) | İşe alım | Revize: "grafik tasarım temelli" etiketi, AI "her gün", "bir adım öndesin", tasarım cümlesi ve zayıf ikna değişecek |
 | 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v2) | İşe alım | Revize: "kurgu" yerine "edit", kapak değil statik reklam + landing page, "imzan olacak" çıkacak |
 | 2026-11 | Digiens Akademi: İçerik Ekibi Video Editörü ilanı (v3) | İşe alım | Yazıldı, onay bekleniyor |
+| 2026-11-17 | Digiens Akademi: Sosyal Medya Video Editörü ilanı (v6, kullanıcı taslağından) | İşe alım | Uzaktan/fikir artısı başa alındı, dolar maaş çıkarıldı; onay bekleniyor |
